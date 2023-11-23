@@ -1,12 +1,12 @@
 # STRANGER THINGS
 
-"Stranger Things" is a popular American science fiction horror television series created by the Duffer Brothers, Matt and Ross. The series is produced by 21 Laps Entertainment and Monkey Massacre Productions. It premiered on Netflix on July 15, 2016, and as of my last knowledge update in January 2022, it had released three seasons with a fourth season in development.
+> "Stranger Things" is a popular American science fiction horror television series created by the Duffer Brothers, Matt and Ross. The series is produced by 21 Laps Entertainment and Monkey Massacre Productions. It premiered on Netflix on July 15, 2016, and as of my last knowledge update in January 2022, it had released three seasons with a fourth season in development.
 
 ![strangerThings](https://github.com/Guweiz-Dy/app-dev/assets/150329441/7dab83ac-16f9-4ffd-89f5-c24b77d0661c)
 ### GENRE:
-**Science Fiction, Horror, Supernatural, Mystery**
+> **Science Fiction, Horror, Supernatural, Mystery**
 ### PLOT SUMMARY:
-**"Stranger Things"** is set in the 1980s in the fictional town of Hawkins, Indiana. The story begins with the mysterious disappearance of a young boy named Will Byers. As his friends and family search for him, they encounter a girl with supernatural abilities, known only as Eleven. The characters soon discover a parallel dimension called the "Upside Down," which is connected to a secret government laboratory in Hawkins. The Upside Down is inhabited by monstrous creatures, and the characters must navigate various challenges to uncover the truth about these supernatural occurrences.
+> **"Stranger Things"** is set in the 1980s in the fictional town of Hawkins, Indiana. The story begins with the mysterious disappearance of a young boy named Will Byers. As his friends and family search for him, they encounter a girl with supernatural abilities, known only as Eleven. The characters soon discover a parallel dimension called the "Upside Down," which is connected to a secret government laboratory in Hawkins. The Upside Down is inhabited by monstrous creatures, and the characters must navigate various challenges to uncover the truth about these supernatural occurrences.
 ### KEY CHARACTERS:
 - **Eleven** (*played by Millie Bobby Brown*): A girl with psychokinetic abilities and a mysterious past.
 - **Mike Wheeler** (*played by Finn Wolfhard*), Dustin Henderson (played by Gaten Matarazzo), and Lucas Sinclair (played by Caleb McLaughlin): Will's friends who embark on a quest to find him and encounter the supernatural.
