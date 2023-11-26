@@ -66,7 +66,7 @@
 
 ### SEASON 5
 The fifth and final season was announced by Netflix in February 2022, and writing began in August of the same year. According to the Duffers, the season will likely not introduce new characters and will focus on the established ones. In June 2023, Linda Hamilton was cast in an undisclosed role.
-:partying_face: :100: :partying_face: :100: :partying_face: 
+:partying_face: :100: :partying_face: :100: :partying_face:
 
 The season will consist of eight episodes, and principal photography was set to begin in May 2023, before being indefinitely delayed due to the Writers Guild of America (WGA) strike. On September 27, 2023, writing for the season resumed after a five-month delay, following the end of the WGA strike. Filming for the season then faced significant delays due to the SAG-AFTRA strike. With the SAG-AFTRA strike having ended on November 9, filming for the fifth season is expected to start again before the end of 2023 and continue into 2024. Dan Trachtenberg is set to direct at least one episode of the season.
 | **No.** | **Episode Title**            | **Directed by**         | **Written by**              | **Original Release Date** |
